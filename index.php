@@ -108,9 +108,9 @@
                   sebagai wadah berkompetisi bagi developer muda yang ingin berkreasi pada bidang pembuatan Aplikasi Mobile.
                 </p>
                 <p class="lead">
-                  Kompetisi ini terbuka bagi seluruh mahasisa di indonesia, dari segala jurusan,
-                  terutama yang memiliki kemampuan di bidang ilmu teknolog dan informasi,
-                  untuk mengembangkan aplikasi mobile dan game yang <b>kreatif, inovatif, dan beruna bagi masyarakat <small class="blue">#AyoNgodingMobile</small></b>
+                  Kompetisi ini terbuka bagi seluruh mahasiswa di Indonesia, dari segala jurusan,
+                  terutama yang memiliki kemampuan di bidang Ilmu Teknologi dan Informasi,
+                  untuk mengembangkan aplikasi mobile dan game yang <b>kreatif, inovatif, dan berguna bagi masyarakat <small class="blue">#AyoNgodingMobile</small></b>
                 </p>
               </div>
               <div class="col-lg-6 col-sm-12">
@@ -197,7 +197,7 @@
               <br />
               <ul class="list-unstyled pricing-table text-center">
                 <li class="headline"><h5 class="white">Juara 2</h5></li>
-                <li class="price"><div class="amount"><small>Rp.</small> 2.250.000</div></li>
+                <li class="price"><div class="amount"><small>Rp.</small> 3.000.000</div></li>
                 <li class="info">Setiap pemenang juara 2 lomba Polinema Mobile Apps And Game Competition akan mendapatkan</li>
                 <li class="features first">Piagam</li>
                 <li class="features">Sertifikat</li>
@@ -207,7 +207,7 @@
             <div class="col-sm-4 pricing-container wow fadeInUp" data-wow-delay="0.4s">
               <ul class="list-unstyled pricing-table active text-center">
                 <li class="headline"><h5 class="white">Juara 1</h5></li>
-                <li class="price"><div class="amount"><small>Rp.</small> 3.000.000</div></li>
+                <li class="price"><div class="amount"><small>Rp.</small> 3.500.000</div></li>
                 <li class="info">Setiap pemenang juara 1 lomba Polinema Mobile Apps And Game Competition akan mendapatkan</li>
                 <li class="features first">Piagam</li>
                 <li class="features">Sertifikat</li>
@@ -219,7 +219,7 @@
               <br />
               <ul class="list-unstyled pricing-table text-center">
                 <li class="headline"><h5 class="white">Juara 3</h5></li>
-                <li class="price"><div class="amount"><small>Rp.</small> 850.000</div></li>
+                <li class="price"><div class="amount"><small>Rp.</small> 2.500.000</div></li>
                 <li class="info">Setiap pemenang juara 3 lomba Polinema Mobile Apps And Game Competition akan mendapatkan</li>
                 <li class="features first">Piagam</li>
                 <li class="features">Sertifikat</li>
@@ -231,12 +231,18 @@
           <div class="row margin-40">
             <div class="col-sm-8 col-sm-offset-2 text-center wow fadeInUp" data-wow-delay="1.6s">
               <h4 class="white">Juara Harapan</h4>
-              <p class="white">Harapan 1 : 650.000 </p>
+              <p class="white">Harapan 1: Rp. 1.000.000 </p>
               <hr>
-              <p class="white">Harapan 2 : 650.000 </p>
+              <p class="white">Harapan 2: Rp. 1.000.000 </p>
               <hr>
-              <p class="white">Harapan 3 : 650.000 </p>
+              <p class="white">Harapan 3: Rp. 1.000.000 </p>
               <hr>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-12 wow fadeInUp" data-wow-delay="1.9s">
+                <p class="white"><i>**Hadiah dipotong pajak</i></p>
             </div>
           </div>
 
