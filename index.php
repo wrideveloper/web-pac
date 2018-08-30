@@ -144,17 +144,17 @@
           <div class="col-sm-4 wow fadeIn" data-wow-delay="0.4s">
             <hr class="line green">
             <h3>Pendaftaran</h3>
-            <p>Pendaftaran dibuka mulai 1 September 2017 - 30 September 2017.</p>
+            <p>Pendaftaran dibuka mulai <b>1 September 2018 - 30 September 2018</b></p>
           </div>
           <div class="col-sm-4 wow fadeIn" data-wow-delay="0.8s">
             <hr class="line purple">
             <h3>Babak Penyisihan</h3>
-            <p>Submisi akhir proposal tahap 1 paling lambat 30 September 2017 dengan cara upload file proposal ke E-Mail : <b class="blue">pac@polinema.ac.id</b> </p>
+            <p>Submisi akhir proposal tahap 1 paling lambat <b>30 September 2018</b> dengan cara upload file proposal ke E-Mail : <b class="blue">pac@polinema.ac.id</b> </p>
           </div>
           <div class="col-sm-4 wow fadeIn" data-wow-delay="1.2s">
             <hr  class="line blue">
             <h3>Pengumuman Babak Penyisihan</h3>
-            <p>Pengumuman babak penyisihan tahap 1 akan di umumkan tanggal 2 Oktober 2017.</p>
+            <p>Pengumuman babak penyisihan tahap 1 akan di umumkan tanggal <b>2 Oktober 2018</b></p>
           </div>
         </div>
 
@@ -164,17 +164,17 @@
             <hr  class="line blue">
             <h3>Pengumpulan Video Demo Aplikasi</h3>
             <p>Pengumpulan terakhir demo aplikasi berupa video demo yang diupload ke youtube, kemudian manual instalasi dan aplikasi yang telah dibuat dikirim ke E-mail PAC beserta link youtube dari video demo aplikasi.
-              Pengumpulan paling lambat tanggal 23 Oktober 2017.</p>
+              Pengumpulan paling lambat tanggal <b>22 Oktober 2018</b></p>
             </div>
             <div class="col-sm-4 wow fadeIn" data-wow-delay="1.9s">
               <hr  class="line yellow">
               <h3>Pengumuman Finalis</h3>
-              <p>Pengumuman peserta yang lolos ke babak final akan di umumkan tanggal 25 Oktober 2017.</p>
+              <p>Pengumuman peserta yang lolos ke babak final akan di umumkan tanggal <b>24 Oktober 2018</b></p>
             </div>
             <div class="col-sm-4 wow fadeIn" data-wow-delay="2.2s">
               <hr  class="line green">
               <h3>Final</h3>
-              <p>Final lomba Polinema Mobile Apps And Game Competition tanggal 28 Oktober 2017.</p>
+              <p>Final lomba Polinema Mobile Apps And Game Competition tanggal <b>29 Oktober 2018</b></p>
             </div>
           </div>
         </div>
