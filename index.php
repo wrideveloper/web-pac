@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head>
   <meta charset="utf-8">
-  <title>PAC</title>
+  <title>PAC - Polinema Mobile Apps And Game Competition</title>
   <meta name="keywords" content="">
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -43,7 +43,7 @@
           <li><a href="#timeline" class="scroll">Timeline</a></li>
           <li><a href="#hadiah" class="scroll">Hadiah</a></li>
           <li><a href="#ketentuan" class="scroll">Ketentuan</a></li>
-          <li><a href="https://bit.ly/pac_2017">Register</a></li>
+          <li><a href="https://bit.ly/pac_2017">Daftar</a></li>
           <li><a href="https://goo.gl/cV5yyj">Template Proposal</a></li>
         </ul>
       </div><!--/.navbar-collapse -->
@@ -53,47 +53,40 @@
   <header>
     <div class="container">
       <div class="row">
-        <div class="col-xs-6">
+        <div class="col-md-6">
           <a href="index.php"><img src="img/logo.svg" alt="Logo" class="logo"></a>
         </div>
-        <div class="col-xs-6 signin text-right navbar-nav">
+        <div class="col-md-6 signin text-right navbar-nav">
           <a href="#timeline" class="scroll">Timeline</a>&nbsp; &nbsp; &nbsp;
           <a href="#hadiah" class="scroll">Hadiah</a>&nbsp; &nbsp; &nbsp;
           <a href="#ketentuan" class="scroll">Ketentuan</a>&nbsp; &nbsp; &nbsp;
-          <a href="https://bit.ly/pac_2017">Register</a>&nbsp; &nbsp; &nbsp;
+          <a href="https://bit.ly/pac_2017">Daftar</a>&nbsp; &nbsp; &nbsp;
           <a href="https://goo.gl/cV5yyj">Template Proposal</a>
         </div>
       </div>
 
-      <div class="row header-info">
-        <div class="col-sm-10 col-sm-offset-1 text-center">
+      <br/>
+      <br/>
+
+      <div class="row">
+        <div class="col-md-6">
           <h1 class="wow fadeIn">Polinema Mobile Apps And Game Competition</h1>
           <br />
           <p class="lead wow fadeIn" data-wow-delay="0.5s">PAC diselenggarakan oleh Jurusan Teknologi Informasi Politeknik Negeri Malang,
             sebagai wadah berkompetisi bagi developer muda yang ingin berkreasi pada bidang pembuatan Aplikasi Mobile.</p>
-            <br />
+          <br />
 
-            <div class="row">
-              <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-                <div class="row">
-                  <div class="col-xs-6 text-right wow fadeInUp" data-wow-delay="1s">
-                    <a href="#be-the-first" class="btn btn-secondary btn-lg scroll">Tentang PAC</a>
-                  </div>
-                  <div class="col-xs-6 text-left wow fadeInUp" data-wow-delay="1.4s">
-                    <a href="https://bit.ly/pac_2017" class="btn btn-primary btn-lg scroll">REGISTER</a>
-                  </div>
-                </div><!--End Button Row-->
-              </div>
-            </div>
-
-          </div>
+          <div class="btn-group" role="group" aria-label="">
+            <a href="#be-the-first" class="btn btn-primary btn-lg">Tentang PAC</a>
+            <a href="https://bit.ly/pac_2017" class="btn btn-success btn-lg">Daftar</a>
+          </div>      
+                    
+        </div>
+        <div class="col-md-6">
+          <img src="img/phone.png" width="100%" />
         </div>
       </div>
-    </header>
-
-    <div class="mouse-icon hidden-xs">
-      <div class="scroll"></div>
-    </div>
+  </header>
 
     <section id="be-the-first" class="">
       <div class="cover_head pad-sm">

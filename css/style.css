@@ -1,17 +1,29 @@
-
 /* ==========================================================================
 Global styles
 ========================================================================== */
-h1, h2, h3, h4, h5, h6, p, .btn, .navbar-nav a, .form-control, .list-inline, small, #hadiah {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+.btn,
+.navbar-nav a,
+.form-control,
+.list-inline,
+small,
+#hadiah {
   font-family: 'Montserrat', sans-serif;
 }
 
-p, .lead {
+p,
+.lead {
   font-family: 'Raleway', sans-serif;
 }
 
 h1 {
-  font-size: 55px;
+  font-size: 40px;
   line-height: 55px;
   letter-spacing: -1px;
   color: #ffffff;
@@ -44,7 +56,7 @@ h3 {
 p {
   font-size: 17px;
   line-height: 22px;
-  color: #2f3031;;
+  color: #2f3031;
   font-weight: 400;
 }
 
@@ -56,7 +68,8 @@ a {
   text-decoration: none;
 }
 
-a:hover, a:focus {
+a:hover,
+a:focus {
   text-decoration: none;
   color: #231f20;
   -webkit-transition: all 0.35s ease-in-out;
@@ -73,13 +86,12 @@ a:hover, a:focus {
 
 ::selection {
   background: #231f20; /* Safari */
-  color: #FFFFFF;
+  color: #ffffff;
 }
 ::-moz-selection {
   background: #231f20; /* Firefox */
-  color: #FFFFFF;
+  color: #ffffff;
 }
-
 
 /*------------------Buttons---------------------*/
 .btn:focus {
@@ -118,11 +130,14 @@ a:hover, a:focus {
 }
 
 .btn-primary {
-  background-color:#29B6F6;
+  background-color: #29b6f6;
   color: #ffffff;
 }
 
-.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active {
   background-color: #8be2e5;
   color: #ffffff;
   -webkit-transition: all 0.35s ease-in-out;
@@ -136,7 +151,10 @@ a:hover, a:focus {
   color: #231f20;
 }
 
-.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active, .btn-secondary.active {
+.btn-secondary:hover,
+.btn-secondary:focus,
+.btn-secondary:active,
+.btn-secondary.active {
   background-color: #ededed;
   color: #231f20;
   -webkit-transition: all 0.35s ease-in-out;
@@ -144,9 +162,6 @@ a:hover, a:focus {
   -o-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
-
-
-
 
 /*-----------------Margins------------------*/
 .margin-0 {
@@ -186,7 +201,6 @@ a:hover, a:focus {
   margin-bottom: 100px !important;
 }
 
-
 /*-----------------Colors------------------*/
 
 .black-bg {
@@ -217,8 +231,6 @@ a:hover, a:focus {
   background: #6d3f96;
 }
 
-
-
 /* ==========================================================================
 Nav Styles
 ========================================================================== */
@@ -238,7 +250,8 @@ Nav Styles
   top: 0;
 }
 
-.navbar-inverse .navbar-nav > li > a, .navbar-nav a {
+.navbar-inverse .navbar-nav > li > a,
+.navbar-nav a {
   color: #ffffff;
   font-size: 14px;
   letter-spacing: 1px;
@@ -255,7 +268,8 @@ Nav Styles
   padding: 10px 10px;
 }
 
-.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form {
   border-color: #4ec3cd;
 }
 
@@ -267,13 +281,12 @@ Nav Styles
   margin-top: 6px;
 }
 
-
-
 /* ==========================================================================
 Main styles
 ========================================================================== */
 header {
-  background: url(../img/header.jpg) no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url(../img/header.jpg) no-repeat center center;
   width: 100%;
   padding: 20px 10px 60px 10px;
   height: 100vh;
@@ -282,22 +295,12 @@ header {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-}
-
-.header-info {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  left: 0;
-  right: 0;
-  margin-left: 0px;
-  margin-bottom: 12%;
+  border-bottom: #d9d9d9 dashed 2px;
 }
 
 .signin {
   padding-top: 9px;
 }
-
 
 .mouse-icon {
   border: 2px solid #fff;
@@ -358,10 +361,9 @@ header {
   padding: 30px 0px;
 }
 
-
-
 #be-the-first {
-  background: url(../img/landing_page.jpeg) #231f20 no-repeat center center fixed;
+  background: url(../img/landing_page.jpeg) #231f20 no-repeat center center
+    fixed;
   min-height: 300px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -369,12 +371,13 @@ header {
   background-size: cover;
 }
 
-#be-the-first ul, #be-the-first p{
+#be-the-first ul,
+#be-the-first p {
   text-align: justify;
 }
 
 .cover_head {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.7);
   display: flex;
   flex-flow: row wrap;
 }
@@ -385,8 +388,8 @@ hr.line {
 }
 
 .green {
-  border-color: #4CAF50;
-  color: #4CAF50;
+  border-color: #4caf50;
+  color: #4caf50;
 }
 
 .purple {
@@ -396,7 +399,7 @@ hr.line {
 
 .blue {
   border-color: #70cbce;
-  color: #70cbce
+  color: #70cbce;
 }
 
 .yellow {
@@ -418,12 +421,13 @@ hr.line {
   max-width: 440px;
 }
 
-
 #ketentuan {
   background: #f2f2f2;
 }
 
-#ketentuan h2, #ketentuan p, #ketentuan li{
+#ketentuan h2,
+#ketentuan p,
+#ketentuan li {
   color: #000;
 }
 
@@ -445,13 +449,10 @@ footer {
   opacity: 0.5;
 }
 
-
-
 /*---------------Pricing Tables-------------------*/
 
-
 #hadiah {
-  background: #29B6F6;
+  background: #29b6f6;
 }
 
 .pricing-container {
@@ -469,7 +470,7 @@ footer {
   transition: all 0.25s ease-in-out;
 }
 .pricing-table.active {
-  box-shadow: 0px 0px 12px rgba(41,46,50,0.6);
+  box-shadow: 0px 0px 12px rgba(41, 46, 50, 0.6);
   position: absolute;
   margin: auto;
   z-index: 200;
@@ -492,7 +493,7 @@ footer {
 
 .headline {
   background: #231f20;
-  color: #FFFFFF;
+  color: #ffffff;
   padding: 10px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -500,15 +501,14 @@ footer {
 
 .price {
   background: none repeat scroll 0 0 #231f20;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 32px;
   font-weight: bold;
   padding-bottom: 20px;
   padding-top: 20px;
 }
 
-
-.pricing-table:hover li.price  {
+.pricing-table:hover li.price {
   background: #303236;
   -webkit-transition: all 0.85s ease-in-out;
   -moz-transition: all 0.85s ease-in-out;
@@ -535,12 +535,12 @@ footer {
   font-weight: bold;
   padding-top: 12px;
   padding-bottom: 15px;
-  border-bottom: 1px dotted #E8EAEA;
-  background: #ffffff
+  border-bottom: 1px dotted #e8eaea;
+  background: #ffffff;
 }
 
 .features.first {
-  border-top: 1px dotted #E8EAEA;
+  border-top: 1px dotted #e8eaea;
 }
 
 .features.last {
@@ -558,14 +558,11 @@ footer {
   border-radius: 0;
 }
 
-
-
-
 /* ==========================================================================
 Form styles
 ========================================================================== */
 .form-control {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   background-image: none;
   border: 0px solid transparent;
   border-radius: 4px;
@@ -585,7 +582,8 @@ Form styles
   opacity: 1;
 }
 
-.form-control::-webkit-placeholder, .form-control::-o-placeholder {
+.form-control::-webkit-placeholder,
+.form-control::-o-placeholder {
   color: #d9d9d9;
   font-size: 15px;
   opacity: 1;
@@ -597,22 +595,17 @@ Form styles
   opacity: 1;
 }
 
-
-
-
 /* ==========================================================================
 Mobile styles
 ========================================================================== */
 /* Landscape phones and down */
 @media (max-width: 480px) {
-
   .btn-lg {
     font-size: 12.5px;
     line-height: 1.33;
     padding: 16px 13px;
     letter-spacing: 0px;
   }
-
 
   .btn-wide {
     width: 100%;
@@ -625,79 +618,66 @@ Mobile styles
   #be-the-first {
     background-attachment: scroll;
   }
-
 }
-
 
 /* Landscape phone to portrait tablet */
 @media (min-width: 481px) and (max-width: 767px) {
-
   #be-the-first {
     background-attachment: scroll;
   }
-
 }
-
 
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 991px) {
-
   #be-the-first {
     background-attachment: scroll;
   }
-
 }
-
-
 
 /* Desktops and laptops ----------- */
 @media (min-width: 992px) and (max-width: 1199px) {
-
 }
-
-
 
 /* Large screens ----------- */
 @media (min-width: 1200px) and (max-width: 3000px) {
-
 }
 
-img.logo{
+img.logo {
   width: 100px;
 }
 
-.timeline{
+.timeline {
   text-align: center;
 }
 
-.timeline h2{
+.timeline h2 {
   color: #000;
 }
 
-.bold{
+.bold {
   font-weight: bold;
 }
 
-#media h2{
+#media h2 {
   color: #000;
   padding-bottom: 20px;
 }
 
-#media img.center{
+#media img.center {
   text-align: center;
 }
 
-.right{
+.right {
   float: right;
 }
 
 /*navbar*/
 article {
-  background-color: #29B6F6;
+  background-color: #29b6f6;
   padding-top: 30px;
 }
 
-h4{
+h4 {
   font-size: 25px;
   line-height: 40px;
   etter-spacing: -0.5px;
