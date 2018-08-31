@@ -44,7 +44,7 @@
           <li><a href="#timeline" class="scroll">Timeline</a></li>
           <li><a href="#hadiah" class="scroll">Hadiah</a></li>
           <li><a href="#ketentuan" class="scroll">Ketentuan</a></li>
-          <li><a href="https://bit.ly/pac_2017">Daftar</a></li>
+          <li><a href="https://bit.ly/pac_2018">Daftar</a></li>
           <li><a href="https://goo.gl/cV5yyj">Template Proposal</a></li>
         </ul>
       </div><!--/.navbar-collapse -->
@@ -61,7 +61,7 @@
           <a href="#timeline" class="scroll">Timeline</a>&nbsp; &nbsp; &nbsp;
           <a href="#hadiah" class="scroll">Hadiah</a>&nbsp; &nbsp; &nbsp;
           <a href="#ketentuan" class="scroll">Ketentuan</a>&nbsp; &nbsp; &nbsp;
-          <a href="https://bit.ly/pac_2017">Daftar</a>&nbsp; &nbsp; &nbsp;
+          <a href="https://bit.ly/pac_2018">Daftar</a>&nbsp; &nbsp; &nbsp;
           <a href="https://goo.gl/cV5yyj">Template Proposal</a>
         </div>
       </div>
@@ -77,7 +77,7 @@
             sebagai wadah berkompetisi bagi developer muda yang ingin berkreasi pada bidang pembuatan Aplikasi Mobile.</p>
           <br />
 
-          <a href="https://bit.ly/pac_2017" class="btn btn-lg btn-success" style="font-weight: bold">Daftar</a>
+          <a href="https://bit.ly/pac_2018" class="btn btn-lg btn-success" style="font-weight: bold">Daftar</a>
           &nbsp;
           <a href="#be-the-first" class="btn btn-lg btn-outline-primary">Tentang PAC</a>
                     
@@ -110,7 +110,7 @@
                   <ul>
                       <li>Perguruan Tinggi peserta adalah perguruan tinggi yang terdaftar pada laman PD DIKTI (<a href="http://forlap.dikti.go.id">http://forlap.dikti.go.id</a>)</li>
                       <br/>
-                      <li>Peserta adalah mahasiswa aktif Program Diploma atau Strata 1 dengan umur maksimum 24 tahun pada bulan November 2017 ketika PAC berlangsung.</li>
+                      <li>Peserta adalah mahasiswa aktif Program Diploma atau Strata 1 dengan umur maksimum 24 tahun pada bulan November 2018 ketika PAC berlangsung.</li>
                       <br/>
                       <li>Aplikasi yang dilombakan belum pernah dipublikasikan di media apapun.</li>
                   </ul>
