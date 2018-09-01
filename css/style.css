@@ -673,3 +673,12 @@ h4 {
 .padding.border {
   border-right: dashed 2px #cdcdcd;
 }
+
+footer {
+  background-color: #242424;
+  color: white;
+}
+
+.hr {
+  border: dashed 2px white;
+}

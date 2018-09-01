@@ -5,13 +5,15 @@
   <meta name="keywords" content="">
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  
 
   <meta property="og:title" content="">
   <meta property="og:type" content="website">
   <meta property="og:url" content="">
   <meta property="og:site_name" content="">
   <meta property="og:description" content="">
-
+  <link rel="shortcut icon" href="img/pac.ico">
+  
   <!-- Styles -->
   <link rel="stylesheet" href="css/font-awesome.min.css">
   <link rel="stylesheet" href="css/animate.css">
@@ -21,6 +23,9 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/timeline.css">
+
+  <link rel="stylesheet" href="vendor/owlcarousel/assets/owl.carousel.min.css">
+  <link rel="stylesheet" href="vendor/owlcarousel/assets/owl.theme.default.min.css">
 
   <script src="js/modernizr-2.7.1.js"></script>
 
@@ -212,11 +217,11 @@
             <div class="col-sm-8 col-sm-offset-2 text-center wow fadeInUp" data-wow-delay="1.6s">
               <h4 class="white">Juara Harapan</h4>
               <p class="white">Harapan 1: Rp. 1.000.000 </p>
-              <hr>
+              <hr class="hr">
               <p class="white">Harapan 2: Rp. 1.000.000 </p>
-              <hr>
+              <hr class="hr">
               <p class="white">Harapan 3: Rp. 1.000.000 </p>
-              <hr>
+              <hr class="hr">
             </div>
           </div>
 
@@ -254,21 +259,60 @@
         <div class="container">
 
           <div class="row margin-30 news-container">
-            <h2 class="text-center wow fadeInLeft" data-wow-delay="0.4s">Media Partner</h2>
-            <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 wow fadeInLeft" data-wow-delay="0.8s">
-              <div class="col-md-6">
-                <a href="#">
-                  <img class="news-img right" src="img/hmti.jpg" alt="HMTI">
-                </a>
+            <div class="col-md-6 wow fadeInLeft padding border" data-wow-delay="0.8s">
+              <h2 class="text-center wow fadeInLeft" data-wow-delay="0.4s">Media Partner</h2>
+              <div class="owl-carousel">
+                <div>
+                  <a href="#">
+                    <img class="news-img" src="img/medpart/codepolitan.png" width="100%" alt="codepolitan">
+                  </a>
+                </div>
+                <div>
+                  <a href="#">
+                    <img class="news-img" src="img/medpart/Indiekraf.png" style="margin-top: 50px" alt="indiekraf">
+                  </a>
+                </div>
+                <div>
+                  <a href="#">
+                    <img class="news-img" src="img/medpart/lazday.png" alt="lazday">
+                  </a>
+                </div>
+                <div>
+                  <a href="#">
+                    <img class="news-img" src="img/medpart/tekno-event.png" alt="teknoevent">
+                  </a>
+                </div>
+                <div>
+                  <a href="#">
+                    <img class="news-img" src="img/medpart/wicara.png" alt="wicara">
+                  </a>
+                </div>
+                <div>
+                  <a href="#">
+                    <img class="news-img" src="img/medpart/info-lomba.png" alt="info lomba">
+                  </a>
+                </div>
+                <div>
+                  <a href="#">
+                    <img class="news-img" src="img/medpart/genzi.jpeg" style="margin-top: 50px" alt="genzi">
+                  </a>
+                </div>
               </div>
-              <div class="col-md-6">
-                <a href="wri.polinema.ac.id">
-                  <img class="news-img center" src="img/wri.jpg" alt="WRI">
-                </a>
+          </div>
+          <div class="col-md-6 padding">
+          <h2 class="text-center wow fadeInLeft" data-wow-delay="0.4s">Supported By</h2>
+              <div class="row">
+                <div class="col-md-6 text-right">
+                  <a href="#">
+                    <img class="news-img" src="img/wri.jpg" alt="codepolitan">
+                  </a>
+                </div>
+                <div class="col-md-6">
+                  <a href="#">
+                    <img class="news-img" src="img/hmti.jpg" alt="indiekraf">
+                  </a>
+                </div>
               </div>
-              <!-- <a href="http://wri.polinema.ac.id/">
-              <img class="news-img center" src="img/wri.jpg" alt="WRI">
-            </a> -->
           </div>
         </div>
 
@@ -278,7 +322,6 @@
 
     <footer>
       <div class="container">
-
         <div class="row">
           <div class="col-sm-12 text-center">
             <p><small>Copyright &copy; 2018. All rights reserved. <br>
@@ -297,7 +340,6 @@
       <script src="js/wow.min.js"></script>
       <script src="js/bootstrap.min.js"></script>
       <script src="js/main.js"></script>
-
-
+      <script src="vendor/owlcarousel/owl.carousel.min.js"></script>
     </body>
     </html>
