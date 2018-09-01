@@ -269,6 +269,11 @@
                 </div>
                 <div>
                   <a href="#">
+                    <img class="news-img" src="img/medpart/dilo-malang.png" style="margin-top: 50px" width="100%" alt="codepolitan">
+                  </a>
+                </div>
+                <div>
+                  <a href="#">
                     <img class="news-img" src="img/medpart/Indiekraf.png" style="margin-top: 50px" alt="indiekraf">
                   </a>
                 </div>
