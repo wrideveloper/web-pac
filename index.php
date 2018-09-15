@@ -157,7 +157,7 @@
 				</li>
         <li>
 					<a href="#">Final</a>
-					<p>Final lomba Polinema Mobile Apps And Game Competition tanggal <b>29 Oktober 2018</b></p>
+					<p>Final lomba Polinema Mobile Apps And Game Competition tanggal <b>27 Oktober 2018</b></p>
 				</li>
 			</ul>
         </div>
